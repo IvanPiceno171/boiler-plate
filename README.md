@@ -22,6 +22,10 @@ bootstrap
 ~~The world is flat~~
 ~~The world is flat~~
 
+> blockquote
+> blockquote
+> blockquote
+
 ```
 {
   "firstName": "John",
@@ -29,3 +33,5 @@ bootstrap
   "age": 25
 }
 ```
+
+`code`
