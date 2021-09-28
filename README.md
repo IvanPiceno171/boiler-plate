@@ -7,7 +7,7 @@ bootstrap
 
 [title](https://www.example.com)
 
-#h1 **bold**
+# Hello World **bold**
 ---
 `code`
 ---
@@ -15,7 +15,7 @@ bootstrap
 2. Second item
 3. third item 
 ---
-#h2  **bold**
+# h2 Middle  **bold**
 ---
 ![alt text](image.jpg)
 ![alt text](image.jpg)
