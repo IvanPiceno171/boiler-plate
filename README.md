@@ -15,12 +15,14 @@ bootstrap
 2. Second item
 3. third item 
 ---
-# h2 Middle  **bold**
+##  Middle  **bold**
 ---
 ![alt text](image.jpg)
 ![alt text](image.jpg)
 
-~~The world is flat~~
+- one
+- two
+- three 
 
 ```
 {
