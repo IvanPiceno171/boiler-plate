@@ -7,24 +7,20 @@ bootstrap
 
 [title](https://www.example.com)
 
-#h1 **bold text**
-
+#h1 **bold**
+---
+`code`
+---
 1.First item
 2. Second item
 3. third item 
 ---
-#h2  **bold text**
+#h2  **bold**
 ---
 ![alt text](image.jpg)
 ![alt text](image.jpg)
-![alt text](image.jpg)
 
 ~~The world is flat~~
-~~The world is flat~~
-
-> blockquote
-> blockquote
-> blockquote
 
 ```
 {
@@ -33,5 +29,3 @@ bootstrap
   "age": 25
 }
 ```
-
-`code`
