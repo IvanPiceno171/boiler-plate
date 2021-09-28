@@ -19,5 +19,13 @@ bootstrap
 ![alt text](image.jpg)
 ![alt text](image.jpg)
 
+~~The world is flat~~
+~~The world is flat~~
 
-
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
