@@ -3,32 +3,37 @@ bootstrap
 
 
 
-### My Great Heading {#custom-id}
 
-[title](https://www.example.com)
 
-# Hello World **bold**
----
-`code`
----
-1.First item
-2. Second item
-3. third item 
----
-##  Middle  **bold**
----
-![alt text](image.jpg)
-![alt text](image.jpg)
-![alt text](image.jpg)
 
-- one
-- two
-- three 
+# Hello World 
+---
+Steps to clone repo
+(navigate to your project folder in your terminal)
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+git clone git@github.comivanpiceno171/bootstrap-boilerplate.git
+
+git add.
+
+git commit -m"init commit"
+
+git push origin main
+
+---
+##  What is included?
+1. index.html
+2. css.folder
+  -style.css
+3. js folder
+  -scripts.js
+4. img folder
+
+---
+Contributor:
+Ivan Piceno,
+
+Coding Student
+
+Bitwise
+
+ivan.piceno171@gmail.com
